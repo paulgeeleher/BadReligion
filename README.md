@@ -15,7 +15,7 @@ Below is a pic of the band performing in the early 80s.
 And here is a pic of Greg and the guys performing in the early 90s.
 ![greg pic](images/graffin.jpg)
 
-
+helo
 And here is a pic of Greg performing at the Chicago Riot Fest in 2013..
 ![old greg pic](images/bad-religion-12.jpg)
 
